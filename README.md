@@ -18,5 +18,9 @@ inputs while the other functions to display were still running
 
 #Packages/Libraries Needed
 https://luma-led-matrix.readthedocs.io/en/latest/index.html
+
+
 https://docs.python.org/3/library/threading.html
+
+
 https://docs.python.org/3/library/time.html
